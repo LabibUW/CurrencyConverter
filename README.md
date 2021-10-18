@@ -1,5 +1,5 @@
 # Currency Converter
-A Currency Convertor that can convert any currency with the usage of APIs. A History feature has also been implemented to allow users to access their old searches at anytime.
+A Currency Converter that can convert any currency with the usage of APIs. A History feature has also been implemented to allow users to access their old searches at any time.
 
 ## Technologies Used
 <ul>
